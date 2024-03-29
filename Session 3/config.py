@@ -1,0 +1,5 @@
+PDF_FILE_PATH = r"C:\Users\muaaz\OneDrive\Desktop\Mentorship\Session 3\documents\sensors-22-08281-v3.pdf"
+CSV_FILE_PATH = r"C:\Users\muaaz\OneDrive\Desktop\Mentorship\Session 3\documents\test_csv.csv"
+PNG_FILE_PATH = r"C:\Users\muaaz\OneDrive\Desktop\Mentorship\Session 3\documents\essay.png"
+JSON_FILE_PATH=r"C:\Users\muaaz\OneDrive\Desktop\Mentorship\Session 3\documents\NewsData.json"
+EMAIL_FILE_PATH=r"C:\Users\muaaz\OneDrive\Desktop\Mentorship\Session 3\documents\Embrace Generative AI in your career and life with new programs by IBM on Coursera!.eml"
